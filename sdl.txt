@@ -1,0 +1,5 @@
+Hello,
+welcome to the First SDL Assignment.
+count the number of word in each lines.
+
+Thank you !
