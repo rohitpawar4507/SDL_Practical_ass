@@ -1,3 +1,6 @@
+# SDL Assignment No-1
+# Write Python code for Word count and find occurrence of word from file.
+
 fo=open("sdl.txt",'r')
 str=fo.read()
 data=str.split()
@@ -17,3 +20,5 @@ print("Total Words in the file is :",l)
 print("occurrence:",counts)
 
 fo.close()
+
+print("Thank you!")
